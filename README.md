@@ -1,1 +1,1 @@
-# CSES_problem_set
+# CSES problem set
